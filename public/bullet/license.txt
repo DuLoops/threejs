@@ -1,0 +1,11 @@
+Model Information:
+* title:	31 great circles
+* source:	https://sketchfab.com/3d-models/31-great-circles-76b2c99d64194cbe9752f12f356045b7
+* author:	Gerry in Québec (https://sketchfab.com/quebec)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "31 great circles" (https://sketchfab.com/3d-models/31-great-circles-76b2c99d64194cbe9752f12f356045b7) by Gerry in Québec (https://sketchfab.com/quebec) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
